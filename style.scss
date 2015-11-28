@@ -4,8 +4,6 @@
 //
 // IMPORTS
 //
-@import "highlights";
-@import "svg-icons";
 @import "reset";
 @import "variables";
 // Syntax highlighting @import is at the bottom of this file
@@ -19,7 +17,7 @@ html {
 }
 
 body {
-	background-color: $black;
+	bg-color: $black;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
